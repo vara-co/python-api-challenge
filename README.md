@@ -3,9 +3,9 @@ DU - DA Module 6 challenge
 --------------------------------
 Python - API - Challenge
 --------------------------------
---------------------------------
 by Laura Vara
 --------------------------------
+![WeatherVacAPI](https://github.com/vara-co/python-api-challenge/assets/152572519/ab277542-c68c-41c8-b14a-c3e92b828165)
 
 Note: It is important that if you are going to use this code, the csv file
 is placed in a directory called output_data, in the same directory as a directory named JupyterNotebook_files
